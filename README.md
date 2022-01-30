@@ -1,6 +1,6 @@
 # Nerdo : A Pandemic Bot
 
-## Team Name
+## Team Name : MintMoney
 
 ## Problem Statement Brief
 
